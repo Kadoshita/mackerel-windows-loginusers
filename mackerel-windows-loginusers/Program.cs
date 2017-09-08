@@ -10,6 +10,7 @@ namespace mackerel_windows_loginusers
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
