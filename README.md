@@ -1,0 +1,2 @@
+# mackerel-windows-loginusers
+windowsのログインユーザ数をMackerelに通知するプラグイン
